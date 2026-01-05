@@ -18,4 +18,4 @@
 
 ### 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/manasi-shivnekar-0329372b4
-- mail: manasishivnekar28@gmail.com
+- email: manasishivnekar28@gmail.com
