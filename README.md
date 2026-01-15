@@ -15,6 +15,10 @@
 - Superstore Sales Dashboard (Power BI)
 - Library Management System (Python + Tkinter)
 - Real Estate Management System (Python + Tkinter)
+- **Python Mini Projects**  
+  - ATM Simulation System  
+  - Guess the Number Game  
+  - Word Jumbled Game  
 
 ### 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/manasi-shivnekar-0329372b4
